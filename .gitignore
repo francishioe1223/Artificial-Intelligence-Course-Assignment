@@ -1,0 +1,72 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Environment
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Generated files (but allow essential data files)
+*.npy
+*.png
+*.jpg
+*.jpeg
+*.pdf
+*.zip
+
+# Allow essential data files
+!SEMTM0016 PartA/sprites_greyscale10.npz
+!SEMTM0016 PartC/dungeon_sensorstats_partC.csv
+
+# Large datasets (exclude to keep repo size manageable)
+B/images/
+C/dungeon_images_colour80/
+
+# Pillow library source (too large - 280MB)
+Pillow/
+
+# Temporary files
+*.tmp
+*.temp
