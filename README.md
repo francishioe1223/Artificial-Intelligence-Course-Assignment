@@ -1,4 +1,4 @@
-# Artificial Intelligence Course Assignment
+# Artificial Intelligence Coursework
 
 This repository contains my comprehensive AI course assignment covering fundamental machine learning concepts, reinforcement learning algorithms, and advanced AI techniques. The project is structured into three main parts, each focusing on different aspects of artificial intelligence.
 
