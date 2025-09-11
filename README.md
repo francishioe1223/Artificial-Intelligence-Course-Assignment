@@ -1,10 +1,6 @@
-<<<<<<< HEAD
 # Machine Learning Fundamentals: Supervised, Unsupervised & Reinforcement Learning
 
 This repository contains my coursework for the **Artificial Intelligence** module in the Robotics MSc program at the University of Bristol. This module covers fundamental machine learning concepts, reinforcement learning algorithms, and advanced AI techniques. The project is structured into three main parts, each focusing on different aspects of artificial intelligence.
-=======
-# Artificial Intelligence Coursework
->>>>>>> e51433820bb5f24acbb0fcf8e448a094d8b9c75c
 
 
 ## Project Overview
